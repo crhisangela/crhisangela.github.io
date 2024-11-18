@@ -29,7 +29,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-perfis:
+profiles:
   - icon: at-symbol
     url: 'mailto:ferreiracrhis@gmail.com'
     label: E-mail Me
@@ -45,14 +45,14 @@ perfis:
     url: https://www.tiktok.com/@tecrhisnologia
  
 
-interesses:
+interests:
   - Aprendizado de máquina
   - IA Generativa
   - IA Conversacional
   - Quimioinformática
 
 
-Formações:
+education:
   - area: Mestrado em Ciência da Computação
     institution: Universidade Federal do ABC
     date_start: 2024-11-18
