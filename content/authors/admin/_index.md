@@ -3,7 +3,7 @@
 title: Crhis Ferreira
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Crhisangela Ferreira
 
 # Full name (for SEO)
 first_name: Crhisângela
@@ -23,13 +23,13 @@ highlight_name: true
 role: Cientista de Dados
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: 
-#     url: 
+organizations:
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+perfis:
   - icon: at-symbol
     url: 'mailto:ferreiracrhis@gmail.com'
     label: E-mail Me
@@ -45,14 +45,14 @@ profiles:
     url: https://www.tiktok.com/@tecrhisnologia
  
 
-interests:
+interesses:
   - Aprendizado de máquina
   - IA Generativa
   - IA Conversacional
   - Quimioinformática
 
 
-education:
+Formações:
   - area: Mestrado em Ciência da Computação
     institution: Universidade Federal do ABC
     date_start: 2024-11-18
