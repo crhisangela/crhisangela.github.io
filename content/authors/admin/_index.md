@@ -52,7 +52,7 @@ interesses:
   - Quimioinformática
 
 
-Formações:
+education:
   - area: Mestrado em Ciência da Computação
     institution: Universidade Federal do ABC
     date_start: 2024-11-18
