@@ -93,7 +93,7 @@ work:
     company_logo: ''
     date_start: 2024-11-11
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
       - Desenvolvimento de IA Conversacional com LLMs.
       - Desenvolvimento e treinamento de modelos de machine learning.
