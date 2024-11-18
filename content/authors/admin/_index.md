@@ -29,7 +29,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+perfis:
   - icon: at-symbol
     url: 'mailto:ferreiracrhis@gmail.com'
     label: E-mail Me
@@ -45,14 +45,14 @@ profiles:
     url: https://www.tiktok.com/@tecrhisnologia
  
 
-interests:
+interesses:
   - Aprendizado de máquina
   - IA Generativa
   - IA Conversacional
   - Quimioinformática
 
 
-education:
+Formações:
   - area: Mestrado em Ciência da Computação
     institution: Universidade Federal do ABC
     date_start: 2024-11-18
@@ -140,33 +140,33 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Linguagens
+  - name: Hard Skills
     items:
       - name: Python
         description: ''
         percent: 90
         icon: code-bracket
-      - name: NoSQL
+      - name: Data Science
         description: ''
-        percent: 90
+        percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 80
+        percent: 40
         icon: circle-stack
-  - name: Ferramentas
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Aprendizado supervisionado
+      - name: Hiking
         description: ''
         percent: 60
-        icon: NLP
+        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: LLMs
+      - name: Photography
         description: ''
         percent: 80
         icon: camera
