@@ -7,11 +7,11 @@ main:
   - name: Bio
     url: /
     weight: 10
-  # - name: Papers
+ # - name: Papers
   #   url: /#papers
   #   weight: 11
-  - name: Projetos
-    url: projects/
+  - name: Palestras
+    url: /#talks
     weight: 12
   # - name: News
   #   url: /#news
@@ -20,7 +20,7 @@ main:
     url: experience/
     weight: 20
   - name: Projetos
-    url: /#talks
+    url: projects/
     weight: 30
   # - name: Teaching
   #   url: teaching/

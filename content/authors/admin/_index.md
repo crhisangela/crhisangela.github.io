@@ -23,9 +23,9 @@ highlight_name: true
 role: Cientista de Dados
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: 
-    url: 
+# organizations:
+#   - name: 
+#     url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -93,7 +93,7 @@ work:
     company_logo: ''
     date_start: 2024-11-11
     date_end: ''
-    summary: |-
+    summary: |
       Responsibilities include:
       - Desenvolvimento de IA Conversacional com LLMs.
       - Desenvolvimento e treinamento de modelos de machine learning.
