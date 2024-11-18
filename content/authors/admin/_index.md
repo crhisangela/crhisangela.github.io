@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Crhisangela Ferreira
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Crhisângela
+last_name: Ferreira
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎲
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,33 +20,32 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Cientista de Dados
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+perfis:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ferreiracrhis@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/medium
+    url: https://medium.com/@crhisangela
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/crhisangela
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/crhisangela
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/crhis
+  - icon: academicons/tiktok
+    url: https://www.tiktok.com/@tecrhisnologia
+ 
 
-interests:
+interesses:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
