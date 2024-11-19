@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ferreiracrhis@gmail.com'
     label: E-mail Me
-  - icon: brands/medium
+  - icon: assets/media/icons/medium.svg
     url: https://medium.com/@crhisangela
   - icon: brands/instagram
     url: https://www.instagram.com/crhisangela
@@ -41,7 +41,7 @@ profiles:
     url: https://github.com/crhisangela
   - icon: brands/linkedin
     url: https://www.linkedin.com/crhis
-  - icon: academicons/tiktok
+  - icon: assets/media/icons/tiktok.svg
     url: https://www.tiktok.com/@tecrhisnologia
  
 
