@@ -3,7 +3,7 @@
 title: Crhis Ferreira
 
 # Name pronunciation (optional)
-name_pronunciation: Crhisangela Ferreira
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Crhisângela
