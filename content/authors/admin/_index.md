@@ -45,15 +45,15 @@ profiles:
     url: https://www.tiktok.com/@tecrhisnologia
  
 
-interesses:
+interests:
   - Aprendizado de máquina
   - IA Generativa
   - IA Conversacional
   - Quimioinformática
 
 
-Formações:
-  - area: Mestrado em Ciência da Computação
+education:
+  - courses: Mestrado em Ciência da Computação
     institution: Universidade Federal do ABC
     date_start: 2024-11-18
     date_end: atual
@@ -62,7 +62,7 @@ Formações:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MBA em Big Data e Inteligencia de Mercado
+  - courses: MBA em Big Data e Inteligencia de Mercado
     institution: Faculdade Descomplica
     date_start: 2022-03-01
     date_end: 2023-03-30
@@ -73,7 +73,7 @@ Formações:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Bacharel Intedisciplinar em Ciencia e Tecnologia do Mar
+  - courses: Bacharel Intedisciplinar em Ciencia e Tecnologia do Mar
     institution: Universidade Federal de São Paulo
     date_start: 2022-02-23
     date_end: 2019-02-01
